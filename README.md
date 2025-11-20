@@ -1,4 +1,4 @@
-# seller
+# S-Liquor
 
 A new Flutter project.
 
